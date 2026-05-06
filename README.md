@@ -1,5 +1,7 @@
 # ECG-TransUNet
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20051167.svg)](https://doi.org/10.5281/zenodo.20051167)
+
 This repository contains the training code for **ECG-TransUNet**, our ECG heartbeat annotation and correction network.
 
 The open-source package is intentionally lightweight and keeps only the files required for model training and fine-tuning.
