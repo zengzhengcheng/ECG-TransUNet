@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+title: "ECG-TransUNet"
+message: "If you use this software in research, reports, or public releases, please cite the project and acknowledge the original authors."
+type: software
+authors:
+  - family-names: "Zeng"
+    given-names: "Zhengcheng"
+  - family-names: "Tian"
+    given-names: "Siqi"
+  - family-names: "Zhang"
+    given-names: "Shuai"
+repository-code: "https://github.com/zengzhengcheng/ECG-TransUNet"
+url: "https://github.com/zengzhengcheng/ECG-TransUNet"
+version: "1.0.0"
+date-released: "2026-05-04"
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Zeng"
+      given-names: "Zhengcheng"
+    - family-names: "Tian"
+      given-names: "Siqi"
+    - family-names: "Zhang"
+      given-names: "Shuai"
+  title: "ECG-TransUNet"
+  version: "1.0.0"
+  url: "https://github.com/zengzhengcheng/ECG-TransUNet"
+  year: 2026
